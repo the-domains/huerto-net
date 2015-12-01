@@ -1,7 +1,7 @@
 name: Huerto.net
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.51375
+layout_spectrum: 0.75148
+typography_spectrum: 0.2348
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#493f40'
     - '#b5c5dc'
     - '#8e7e88'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.875
   rhythmicContrast: 0.75
