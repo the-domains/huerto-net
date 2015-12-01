@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Pictures from Stony Rapids
-datePublished: '2015-12-01T23:24:41.586Z'
-dateModified: '2015-12-01T23:22:32.600Z'
+datePublished: '2015-12-01T23:40:09.483Z'
+dateModified: '2015-12-01T23:37:18.001Z'
 title: Stony Rapids
 author: []
+sourcePath: _posts/2015-12-01-stony-rapids.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-01-stony-rapids.md
-published: true
 url: stony-rapids/index.html
 _type: Article
 
